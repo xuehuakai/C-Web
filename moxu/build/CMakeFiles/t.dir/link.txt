@@ -1,0 +1,1 @@
+/usr/bin/c++  -rdynamic -O3 -g -std=c++11 -Wno-deprecated -Werror -Wno-unused-function CMakeFiles/t.dir/test/t.cpp.o -o build/t   -L/a/workspace/moxu/build/build  -Wl,-rpath,/a/workspace/moxu/build/build build/libmoxu.so -L/a/workspace/yaml-cpp -lyaml-cpp 
